@@ -2,8 +2,8 @@
 
 :root{
   --cor-fundo: #000000;
-  --cor-destaque: #F5077A;
-  --cor-texto: #2D8683;
+  --cor-destaque: #f5077a;
+  --cor-texto: #2d8683;
 }
 
 /* o * seleciona todas as tags */
@@ -56,10 +56,10 @@ strong {
   gap: 32px;
 }
 
-.apreswntacao__links__subtitulos{
-  font-family:'krona one', sans-serif;
+.apresentacao__links__subtitulo{
+  font-family: 'Krona One', sans-serif;
   font-size: 30px;
-  font-weight:600;
+  font-weight: 600;
 }
 
 .apresentacao__links__link {
@@ -73,7 +73,7 @@ strong {
   font-weight: 600;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
-
+}
 
 .foto{
   height: 490px;
